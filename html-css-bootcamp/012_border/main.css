@@ -1,0 +1,21 @@
+div {
+  height: 100px;
+  width: 100px;
+  border: 1px solid red;
+}
+
+img {
+  border: 10px groove orange;
+}
+
+.eagle_one {
+  border: 10px dotted orange;
+}
+
+.eagle_two {
+  border: 10px double orange;
+}
+
+.eagle_three {
+  border: 10px dashed orange;
+}
