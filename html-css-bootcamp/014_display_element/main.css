@@ -1,0 +1,60 @@
+div {
+  height: 100px;
+  width: 100px;
+  border: 1px solid red;
+  border-radius: 100%;
+  background-image: url(../000_img/eagle.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: none;
+  padding: 5px;
+  margin: 5px;
+}
+.two {
+  height: 100px;
+  width: 100px;
+  border: 1px solid red;
+  border-radius: 100%;
+  background-image: url(../000_img/eagle.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: block;
+}
+.three {
+  height: 100px;
+  width: 100px;
+  border: 1px solid red;
+  border-radius: 100%;
+  background-image: url(../000_img/eagle.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: inline;
+}
+.four {
+  height: 100px;
+  width: 100px;
+  border: 1px solid red;
+  border-radius: 100%;
+  background-image: url(../000_img/eagle.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+
+img {
+  border: 10px groove orange;
+  padding: 5px;
+  margin: 5px;
+}
+
+.eagle_one {
+  border: 10px dotted orange;
+}
+
+.eagle_two {
+  border: 10px double orange;
+}
+
+.eagle_three {
+  border: 10px dashed orange;
+}
