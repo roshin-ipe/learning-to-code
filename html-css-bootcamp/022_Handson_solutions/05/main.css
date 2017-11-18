@@ -1,0 +1,9 @@
+p::first-letter {
+  font-size: 36px;
+  font-family: cursive;
+  line-height: normal;
+}
+
+p::first-line {
+  color: red;
+}

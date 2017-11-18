@@ -1,0 +1,8 @@
+img {
+  color: red;
+  border: 10px groove blue;
+}
+[src] {
+  color: green;
+  border: 10px groove green;
+}

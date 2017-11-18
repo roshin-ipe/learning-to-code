@@ -1,0 +1,10 @@
+div {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/I_Love_New_York.svg/220px-I_Love_New_York.svg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 100%;
+  border: 20px groove green;
+}
